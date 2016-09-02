@@ -1,5 +1,9 @@
 ##PHP Migrations——Doctrine Migrations教程
 
+博文链接 : http://my.oschina.net/u/930926/blog/741477
+
+> 版权声明：本文为博主原创文章，未经博主允许不得转载。
+
 Doctrine Migrations github地址：[https://github.com/doctrine/migrations](https://github.com/doctrine/migrations)
 
 官方文档Getting Started（快速开始）写得非常不好，根据本人的使用，总结一下快速开始的案例。
@@ -108,7 +112,6 @@ sh脚本文件最好用vi编写或者保存unix编码，不然会报以下错误
 - Doctrine Migrations文档: http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/
 
 - Doctrine DBAL and Migrations Example: https://gist.github.com/lyaohe/7a6eedd95ebafd6588799e01e87b978b
-
 
 
 
